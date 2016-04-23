@@ -7,6 +7,10 @@
 
 A Ruby implementation of an EventStore. It is an integral part of `rails_event_store` gem.
 
+## Building the docs
+
+Docs are available as Markdown files inside `docs/` directory. They can be processed by [Gitbook](https://github.com/GitbookIO/gitbook) to generate a nicely looking documentation book.
+
 ## About
 
 <img src="http://arkency.com/images/arkency.png" alt="Arkency" width="20%" align="left" />
